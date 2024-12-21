@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=jules-tnk)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jules-tnk&show_icons=true&locale=en&layout=compact" alt="jules-tnk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jules-tnk&show_icons=true&locale=en" alt="jules-tnk" /></p>
+-->
