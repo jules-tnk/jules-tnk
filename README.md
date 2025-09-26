@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jules-tnk&show_icons=true&locale=en" alt="jules-tnk" /></p>
 -->
 
-# 💫 About Me:
+# 💫 About Me
 
 🔭 I’m currently working on Web3 and Hedera related projects mainly with TypeScript and other web technologies<br>🌱 I’m currently learning Enterprise Architecture, System Design and AI<br>💬 Ask me about Web Development, Web3, Architecture, AI and Programming in general
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ## 🖥️ Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
