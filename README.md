@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jules 👋</h1>
 
 <p align="center">
-  <em>Full-Stack Engineer · Web3 Builder · Enterprise Architecture Practitioner</em>
+  <em>Full-Stack Engineer · Web3 Builder · System Architect</em>
 </p>
 
 
