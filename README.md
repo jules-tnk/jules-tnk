@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Jules 👋</h1>
+<h1 align="center">Hi, I'm Jules</h1>
 
 <p align="center">
   <em>Full-Stack Engineer · Web3 Builder · System Architect</em>
 </p>
-
 
 ## 💫 About Me
 
@@ -20,18 +19,25 @@ My core stack (**TypeScript, Python, Java, and Flutter**) gives me the flexibili
 - 🌐 **Web development** : building fast, scalable, and maintainable web experiences
 - 🔗 **Decentralized technologies** : exploring the potential of blockchain and distributed systems
 - 🤖 **Artificial intelligence** : building AI powered apps. I am an optimistic believer in AI as a force for good
+- 🏗️ **Software & System architecture** : designing robust, scalable systems and making sound architecture-level decisions
+- ☁️ **Cloud** : leveraging cloud platforms to build and deploy resilient, cost-effective infrastructure
 
-### Public Work
+### Public Work 
+
+- **[Ragora](https://github.com/jules-tnk/ragora)** : A multi-tenant RAG (Retrieval-Augmented Generation) application powered by Google's Gemini File Search API.
 
 - **[Epura](https://github.com/jules-tnk/flutter-epura)** : A Flutter app that helps you reclaim phone storage through a swipe-based interface for reviewing and deleting recent photos, videos, and downloads.
 
 - **[ts-http-mcp](https://github.com/jules-tnk/ts-http-mcp)** : A TypeScript MCP server that lets AI agents send HTTP requests to any endpoint, with full control over headers, query params, and request bodies.
 
-- **[ts-mcp-hedera](https://github.com/jules-tnk/ts-mcp-hedera)** : A TypeScript MCP server that exposes Hedera blockchain operations (account management, HBAR transfers, and consensus messaging) as tools for AI assistants.
+- **[ts-mcp-hedera](https://github.com/jules-tnk/ts-mcp-hedera)** : A TypeScript MCP server that exposes Hedera blockchain operations (account management, HBAR transfers, and consensus messaging) as tools for AI agents.
 
 ### Find Me
 
-- 🌍 **Website:** [jules-tnk.online](https://jules-tnk.online)
+- 🌍 **Website:** <a href="https://jules-tnk.com" target="_blank">jules-tnk.com</a>
+
+- 💼 **Linkedin:** <a href="https://www.linkedin.com/in/kibalo-jules-tinaka" target="_blank">Kibalo Jules Tinaka</a>
+
 
 ## 🏆 Certifications & Badges
 
@@ -59,7 +65,6 @@ My core stack (**TypeScript, Python, Java, and Flutter**) gives me the flexibili
     <img src="https://images.credly.com/size/130x130/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" width="110" alt="Data Analysis with Python" />
   </a>&nbsp;&nbsp;
 </p>
-
 
 ## 💻 Tech Stack
 
@@ -118,5 +123,3 @@ My core stack (**TypeScript, Python, Java, and Flutter**) gives me the flexibili
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
