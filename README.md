@@ -22,11 +22,13 @@ My core stack (**TypeScript, Python, Java, and Flutter**) gives me the flexibili
 - 🏗️ **Software & System architecture** : designing robust, scalable systems and making sound architecture-level decisions
 - ☁️ **Cloud** : leveraging cloud platforms to build and deploy resilient, cost-effective infrastructure
 
-### Public Work 
+### Public Work
 
 - **[Ragora](https://github.com/jules-tnk/ragora)** : A multi-tenant RAG (Retrieval-Augmented Generation) application powered by Google's Gemini File Search API.
 
 - **[Epura](https://github.com/jules-tnk/flutter-epura)** : A Flutter app that helps you reclaim phone storage through a swipe-based interface for reviewing and deleting recent photos, videos, and downloads.
+
+- **[Pake (Fork)](https://github.com/jules-tnk/Pake)**: Turn any webpage into a desktop app. My fork adds a desktop UI to original project that only support CLI. Original repo: [tw93/pake](https://github.com/tw93/pake).
 
 - **[ts-http-mcp](https://github.com/jules-tnk/ts-http-mcp)** : A TypeScript MCP server that lets AI agents send HTTP requests to any endpoint, with full control over headers, query params, and request bodies.
 
@@ -37,7 +39,6 @@ My core stack (**TypeScript, Python, Java, and Flutter**) gives me the flexibili
 - 🌍 **Website:** <a href="https://jules-tnk.com" target="_blank">jules-tnk.com</a>
 
 - 💼 **Linkedin:** <a href="https://www.linkedin.com/in/kibalo-jules-tinaka" target="_blank">Kibalo Jules Tinaka</a>
-
 
 ## 🏆 Certifications & Badges
 
