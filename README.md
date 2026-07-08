@@ -24,6 +24,8 @@ My core stack (**TypeScript, Python, Java, and Flutter**) gives me the flexibili
 
 ### Public Work
 
+#### App and Tools, Reday to Use
+
 - **[Ragora](https://github.com/jules-tnk/ragora)** : A multi-tenant RAG (Retrieval-Augmented Generation) application powered by Google's Gemini File Search API.
 
 - **[Epura](https://github.com/jules-tnk/flutter-epura)** : A Flutter app that helps you reclaim phone storage through a swipe-based interface for reviewing and deleting recent photos, videos, and downloads.
@@ -33,6 +35,18 @@ My core stack (**TypeScript, Python, Java, and Flutter**) gives me the flexibili
 - **[ts-http-mcp](https://github.com/jules-tnk/ts-http-mcp)** : A TypeScript MCP server that lets AI agents send HTTP requests to any endpoint, with full control over headers, query params, and request bodies.
 
 - **[ts-mcp-hedera](https://github.com/jules-tnk/ts-mcp-hedera)** : A TypeScript MCP server that exposes Hedera blockchain operations (account management, HBAR transfers, and consensus messaging) as tools for AI agents.
+
+#### Experimenting With New Tech
+
+- **[hands-on-google-genui](https://github.com/jules-tnk/hands-on-google-genui)** : An experimentation on generative UI using Google's A2UI protocol.
+
+- **[hands-on-astryx-meta](https://github.com/jules-tnk/hands-on-astryx-meta)** : A React mock SaaS demo built with Meta's Astryx design system, showcasing template-based login, AI chat, admin dashboard, and settings screens.
+
+
+#### Sharing useful resources
+
+- **[togaf-10-study-resources](https://github.com/jules-tnk/togaf-10-study-resources)** :  Study materials I used to prepare for the TOGAF 10 Foundation certification
+
 
 ### Find Me
 
