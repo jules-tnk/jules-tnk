@@ -90,23 +90,23 @@ My core stack (**TypeScript, Python, Java, and Flutter**) gives me the flexibili
   <tr>
     <td align="center" width="33%">
       <a href="https://verify.skilljar.com/c/2fd83oit7b74">
-        <img src="./img/anthropic-symbol-slate.svg" width="90" alt="Anthropic" /><br />
-        <strong>AI Fluency: Framework &amp; Foundations</strong>
+        <img src="./img/anthropic-symbol-slate.svg" width="90" alt="Anthropic" />
       </a><br />
+      <strong>AI Fluency: Framework &amp; Foundations</strong><br />
       <sub>Anthropic Education · 2026</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://verify.skilljar.com/c/uksmjhifz3q7">
-        <img src="./img/anthropic-symbol-slate.svg" width="90" alt="Anthropic" /><br />
-        <strong>Model Context Protocol: Advanced Topics</strong>
+        <img src="./img/anthropic-symbol-slate.svg" width="90" alt="Anthropic" />
       </a><br />
+      <strong>Model Context Protocol: Advanced Topics</strong><br />
       <sub>Anthropic Education · 2026</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://verify.skilljar.com/c/w2khn68ahwtb">
-        <img src="./img/anthropic-symbol-slate.svg" width="90" alt="Anthropic" /><br />
-        <strong>AI Capabilities and Limitations</strong>
+        <img src="./img/anthropic-symbol-slate.svg" width="90" alt="Anthropic" />
       </a><br />
+      <strong>AI Capabilities and Limitations</strong><br />
       <sub>Anthropic Education · 2026</sub>
     </td>
   </tr>
