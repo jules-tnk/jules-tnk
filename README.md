@@ -89,15 +89,24 @@ My core stack (**TypeScript, Python, Java, and Flutter**) gives me the flexibili
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://verify.skilljar.com/c/2fd83oit7b74"><strong>AI Fluency: Framework &amp; Foundations</strong></a><br />
+      <a href="https://verify.skilljar.com/c/2fd83oit7b74">
+        <img src="./img/anthropic-symbol-slate.svg" width="90" alt="Anthropic" /><br />
+        <strong>AI Fluency: Framework &amp; Foundations</strong>
+      </a><br />
       <sub>Anthropic Education · 2026</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://verify.skilljar.com/c/uksmjhifz3q7"><strong>Model Context Protocol: Advanced Topics</strong></a><br />
+      <a href="https://verify.skilljar.com/c/uksmjhifz3q7">
+        <img src="./img/anthropic-symbol-slate.svg" width="90" alt="Anthropic" /><br />
+        <strong>Model Context Protocol: Advanced Topics</strong>
+      </a><br />
       <sub>Anthropic Education · 2026</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://verify.skilljar.com/c/w2khn68ahwtb"><strong>AI Capabilities and Limitations</strong></a><br />
+      <a href="https://verify.skilljar.com/c/w2khn68ahwtb">
+        <img src="./img/anthropic-symbol-slate.svg" width="90" alt="Anthropic" /><br />
+        <strong>AI Capabilities and Limitations</strong>
+      </a><br />
       <sub>Anthropic Education · 2026</sub>
     </td>
   </tr>
