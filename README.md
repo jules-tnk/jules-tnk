@@ -54,32 +54,169 @@ My core stack (**TypeScript, Python, Java, and Flutter**) gives me the flexibili
 
 - 💼 **Linkedin:** <a href="https://www.linkedin.com/in/kibalo-jules-tinaka" target="_blank">Kibalo Jules Tinaka</a>
 
-## 🏆 Certifications & Badges
+## 🏆 Certifications & Credentials
 
-<p align="center">
-<img src="./img/togaf-ea-foundation.jpg" width="110" alt="TOGAF EA Foundation" />
-  <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79324832" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79324832" width="110" alt="Accredible Certification" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/6cf6c609-4914-4a2f-91c8-4e3812f08f9c" target="_blank" title="Web Development with HTML, CSS, JavaScript Essentials">
-    <img src="https://images.credly.com/size/130x130/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" width="110" alt="Web Development with HTML, CSS, JavaScript Essentials" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/f92259fa-45ff-437f-a8e8-3f08cc3fa48e" target="_blank" title="Python Project for Data Science">
-    <img src="https://images.credly.com/size/130x130/images/4dd14b9d-2750-43bc-a5f6-27970c0de0fa/image.png" width="110" alt="Python Project for Data Science" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/1f45c495-be5c-4a86-829f-19cfd0f4593d" target="_blank" title="Python for Data Science and AI">
-    <img src="https://images.credly.com/size/130x130/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="110" alt="Python for Data Science and AI" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/abf77b09-b2b2-41cb-8d7e-b8bb237a747b" target="_blank" title="Introduction to Cloud Computing">
-    <img src="https://images.credly.com/size/130x130/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" width="110" alt="Introduction to Cloud Computing" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/3e75840b-2cda-498b-a09b-b69c206346d6" target="_blank" title="Databases and SQL for Data Science">
-    <img src="https://images.credly.com/size/130x130/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" width="110" alt="Databases and SQL for Data Science" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/8859740a-2903-4246-9f7b-26e4f9b3587e" target="_blank" title="Data Analysis with Python">
-    <img src="https://images.credly.com/size/130x130/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" width="110" alt="Data Analysis with Python" />
-  </a>&nbsp;&nbsp;
-</p>
+### Professional Certifications
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/c86d2246-19ef-4384-a157-07915a6cf8cc/public_url">
+        <img src="https://images.credly.com/size/130x130/images/a1aad5af-5f28-44be-a736-e0a8988885b1/Generative_AI_Engineering.png" width="120" alt="IBM Generative AI Engineering Professional Certificate" />
+      </a><br />
+      <strong>IBM Generative AI Engineering Professional Certificate</strong><br />
+      <sub>2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://jules-tnk.com/togaf-certificate.pdf">
+        <img src="./img/togaf-ea-foundation.jpg" width="120" alt="TOGAF Enterprise Architecture Foundation" />
+      </a><br />
+      <strong>TOGAF Enterprise Architecture Foundation</strong><br />
+      <sub>2025</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credential.net/d84c1db6-31b6-4993-8dfc-f3607756f503#acc.JPi5oKyB">
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79324832" width="120" alt="Chartered Blockchain Analyst I" />
+      </a><br />
+      <strong>Chartered Blockchain Analyst I (CBA®)</strong><br />
+      <sub>2023</sub>
+    </td>
+  </tr>
+</table>
+
+### Other Credentials
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://verify.skilljar.com/c/2fd83oit7b74"><strong>AI Fluency: Framework &amp; Foundations</strong></a><br />
+      <sub>Anthropic Education · 2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://verify.skilljar.com/c/uksmjhifz3q7"><strong>Model Context Protocol: Advanced Topics</strong></a><br />
+      <sub>Anthropic Education · 2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://verify.skilljar.com/c/w2khn68ahwtb"><strong>AI Capabilities and Limitations</strong></a><br />
+      <sub>Anthropic Education · 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/a88586b9-7821-4e2b-a04b-89ff18a93dec/public_url">
+        <img src="https://images.credly.com/size/130x130/images/bc1ee755-d8b5-4068-91fa-60a6e05f12dc/Coursera_20AI_20Agents_20Using_20RAG_20and_20LangChain.png" width="90" alt="AI Agents Using RAG and LangChain" />
+      </a><br />
+      <strong>AI Agents Using RAG and LangChain</strong><br />
+      <sub>2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/e0ce8490-44ff-48ee-86ca-1f5d452de583/public_url">
+        <img src="https://images.credly.com/size/130x130/images/e61e6ff9-3502-4d64-b726-64f932ffbf02/Coursera_20Generative_20AI_20Advanced_20Fine_20Tuning_20for_20LLMs.png" width="90" alt="Generative AI Advanced Fine-Tuning for LLMs" />
+      </a><br />
+      <strong>Generative AI Advanced Fine-Tuning for LLMs</strong><br />
+      <sub>2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/53478a2f-867f-48f0-84f5-6302f6d151cd/public_url">
+        <img src="https://images.credly.com/size/130x130/images/a9f5d0ac-5ee8-47a6-a9df-09468f26e401/image.png" width="90" alt="Generative AI and LLMs: Architecture and Data Preparation" />
+      </a><br />
+      <strong>Generative AI and LLMs: Architecture and Data Preparation</strong><br />
+      <sub>2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/cb03e5cd-8216-48c3-ba5f-5e24c7f00873/public_url">
+        <img src="https://images.credly.com/size/130x130/images/cdb44549-e7b6-47e7-a21f-160cecf8f38f/Coursera_20Generative_20AI_20Applications_20Specialist.png" width="90" alt="Generative AI Applications Specialist" />
+      </a><br />
+      <strong>Generative AI Applications Specialist</strong><br />
+      <sub>2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/0a6e3aee-f8ba-4ffd-9534-357f7ed884da/public_url">
+        <img src="https://images.credly.com/size/130x130/images/6387f397-234b-480c-a0a0-4f9d6f8654a8/blob" width="90" alt="Generative AI Engineering with Transformers and LLMs" />
+      </a><br />
+      <strong>Generative AI Engineering with Transformers &amp; LLMs</strong><br />
+      <sub>2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/b106115d-2673-4da6-aa4c-5b205ee687ea/public_url">
+        <img src="https://images.credly.com/size/130x130/images/bc7582ae-95c6-4e92-a425-d355c65b7d10/image.png" width="90" alt="Generative AI Language Modeling with Transformers" />
+      </a><br />
+      <strong>Generative AI Language Modeling with Transformers</strong><br />
+      <sub>2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/b4996268-c78f-473f-b4dd-aa4df90496fc/public_url">
+        <img src="https://images.credly.com/size/130x130/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" width="90" alt="Web Development with HTML, CSS, JavaScript Essentials" />
+      </a><br />
+      <strong>Web Development with HTML, CSS, JavaScript Essentials</strong><br />
+      <sub>2022</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/6af292b3-891c-4a1a-94ea-cd4b091221a9/public_url">
+        <img src="https://images.credly.com/size/130x130/images/4dd14b9d-2750-43bc-a5f6-27970c0de0fa/image.png" width="90" alt="Python Project for Data Science" />
+      </a><br />
+      <strong>Python Project for Data Science</strong><br />
+      <sub>2022</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/f8046d58-ccb6-4b9e-9fa0-15a0dbbff9fa/public_url">
+        <img src="https://images.credly.com/size/130x130/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="90" alt="Python for Data Science and AI" />
+      </a><br />
+      <strong>Python for Data Science and AI</strong><br />
+      <sub>2022</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/1d5d0071-50dc-4d41-845b-69881ed0988a/public_url">
+        <img src="https://images.credly.com/size/130x130/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" width="90" alt="Introduction to Cloud Computing" />
+      </a><br />
+      <strong>Introduction to Cloud Computing</strong><br />
+      <sub>2022</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/d40e1baf-923d-447b-97ec-69e16217e30a/public_url">
+        <img src="https://images.credly.com/size/130x130/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" width="90" alt="Databases and SQL for Data Science" />
+      </a><br />
+      <strong>Databases and SQL for Data Science</strong><br />
+      <sub>2022</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/34b42058-abbe-4c28-aa7b-6e7d2cc14062/public_url">
+        <img src="https://images.credly.com/size/130x130/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" width="90" alt="Data Analysis with Python" />
+      </a><br />
+      <strong>Data Analysis with Python</strong><br />
+      <sub>2022</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/1e9fbe41-0da1-44e7-ad3f-fc1280541485/public_url">
+        <img src="https://images.credly.com/size/130x130/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png" width="90" alt="Data Science Methodology" />
+      </a><br />
+      <strong>Data Science Methodology</strong><br />
+      <sub>2022</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/83f58454-86a9-4ef6-9e23-ad297ca0e867/public_url">
+        <img src="https://images.credly.com/size/130x130/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="90" alt="Data Science Orientation" />
+      </a><br />
+      <strong>Data Science Orientation</strong><br />
+      <sub>2022</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/77c84a93-ca14-43db-bcd7-159d48632353/public_url">
+        <img src="https://images.credly.com/size/130x130/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" width="90" alt="Tools for Data Science" />
+      </a><br />
+      <strong>Tools for Data Science</strong><br />
+      <sub>2022</sub>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Tech Stack
 
